@@ -23,7 +23,7 @@ description: AAAI Fall Symposium on Privacy and Language Technologies
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "http:plt2016.github.io"
+  Home: "http://plt2016.github.io"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
