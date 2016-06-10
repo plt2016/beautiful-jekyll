@@ -16,21 +16,13 @@ The purpose of this workshop is to jump-start the creation of a community of res
 This workshop will invite original research contributions and position papers on the intersection of privacy and language technologies. Topics of interest include, but are not limited to, the following:
 
 * Analysis of privacy policies and related legal documents
-
 * Semantics of privacy practices and regulations
-
 * Privacy for users of online social media
-
 * Language-sourced ontologies and knowledge bases for privacy
-
 * Privacy in dialogue systems
-
 * Privacy in speech and spoken language processing
-
 * User studies of privacy-supportive language technologies
-
 * Anonymization and identifiability in linguistic resources
-
 * Privacy-preserving methods of text mining
 
 The symposium’s interests include both language technologies for privacy and privacy for language technologies, with the recognition that the two are co-dependent.
